@@ -5,7 +5,7 @@ Pour accéder au dépôt de la bibliothèque d'origine [Suivre ce lien](https://
 
 ---
 
-##Ce dépôt représente les développements effectués dans le cadre de l'agrégation SII-II Session 2022.
+## Ce dépôt représente les développements effectués dans le cadre de l'agrégation SII-II Session 2022.
 
 ---
 
